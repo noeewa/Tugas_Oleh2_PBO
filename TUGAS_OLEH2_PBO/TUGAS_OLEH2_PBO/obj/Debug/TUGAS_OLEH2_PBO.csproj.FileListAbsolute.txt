@@ -1,0 +1,7 @@
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\bin\Debug\TUGAS_OLEH2_PBO.exe.config
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\bin\Debug\TUGAS_OLEH2_PBO.exe
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\bin\Debug\TUGAS_OLEH2_PBO.pdb
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\obj\Debug\TUGAS_OLEH2_PBO.csproj.AssemblyReference.cache
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\obj\Debug\TUGAS_OLEH2_PBO.csproj.CoreCompileInputs.cache
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\obj\Debug\TUGAS_OLEH2_PBO.exe
+C:\Users\Wafa Maulana\source\repos\TUGAS_OLEH2_PBO\TUGAS_OLEH2_PBO\obj\Debug\TUGAS_OLEH2_PBO.pdb
